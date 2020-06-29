@@ -8,7 +8,7 @@
 <%@ page language="java" contentType="text/html; charset=GBK" pageEncoding="GBK"%>
 <html>
     <head>
-        <title>login</title>
+        <title>loginn</title>
     </head>
     <body>
         <!-- <p1>test!</p1> -->
